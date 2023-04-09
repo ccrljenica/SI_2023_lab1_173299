@@ -1,0 +1,99 @@
+$ git log
+commit cbf344702d78c44978b7c5a5c4809c1208aa7432 (HEAD -> master, origin/master)
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 16:17:13 2023 +0200
+
+    new update to txt file
+
+commit fd1ace64edf86d3c32ff53d36ea391ba00bb1c46 (origin/bug3, bug3)
+Merge: 1950804 142fde6
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:56:26 2023 +0200
+
+    Merge branch 'bug3'
+
+commit 195080483d66d14ed57fa4ca7392201065375899
+Merge: 84366d6 d0bdb71
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:56:03 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 84366d6f6dbdc40f46b9b47d01adbcbf3fe30fb3
+Merge: 60fa2ca 2d1f0f4
+Author: ccrljenica <cvetankac@yahoo.com>
+:...skipping...
+commit cbf344702d78c44978b7c5a5c4809c1208aa7432 (HEAD -> master, origin/master)
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 16:17:13 2023 +0200
+
+    new update to txt file
+
+commit fd1ace64edf86d3c32ff53d36ea391ba00bb1c46 (origin/bug3, bug3)
+Merge: 1950804 142fde6
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:56:26 2023 +0200
+
+    Merge branch 'bug3'
+
+commit 195080483d66d14ed57fa4ca7392201065375899
+Merge: 84366d6 d0bdb71
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:56:03 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 84366d6f6dbdc40f46b9b47d01adbcbf3fe30fb3
+Merge: 60fa2ca 2d1f0f4
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:54:53 2023 +0200
+
+    Merge branch 'bug1'
+
+commit 142fde6ec01d23cbaaf6ead5d192251979b76cb2
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:43:17 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit d0bdb71abab70dfe77d59fcc1bb43c23bf6e92e9 (origin/bug2, bug2)
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:41:23 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 2d1f0f47ebf3fc7663641cddcb7e7b80d0807be5 (origin/bug1, bug1)
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:37:45 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 60fa2ca8b0a61932618b9bae646ee80795d6df26
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:37:16 2023 +0200
+
+    update
+
+commit 8095303c8d7ba8fcd123613d6cfde6b466ac9a56
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 15:14:35 2023 +0200
+
+    modified txt
+
+commit b9a3e2731acf87b6d212fb6af5fec54d97981220
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 14:57:24 2023 +0200
+
+    Add java class
+
+commit bc578b0319709ce9b8c534fee5f73e49f8fe7465
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 14:51:03 2023 +0200
+
+    Initial commit
+
+commit debc8fb0967aa48aa8183e8a79a35c9786eceffc
+Author: ccrljenica <cvetankac@yahoo.com>
+Date:   Sun Apr 9 14:46:59 2023 +0200
+
+    txt file

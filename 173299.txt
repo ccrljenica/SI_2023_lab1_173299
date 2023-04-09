@@ -26,3 +26,8 @@ Namesto rebase napraviv merge i probav da vratam so git reset i posledniot commi
 24. git checkout master
 25. git merge bug3
 26. git push origin na se 
+27. git log 
+   - gi iskopirav i staviv vo txt file 
+    git add .
+    git commit -m "Final commit"
+28. git push origin master
