@@ -10,3 +10,19 @@
    -kreiranje na 3 novi granki
 10. git checkout bug1
    - prefrlanje na bug1 granka 
+11. git add . 
+    git commit -m "Fix wrong loop for reading" 
+   - popravanje na greskata na granka1
+12.13.14.15 isti cekori kako 11
+16. git push origin imeNaGranka
+   - push do oddaleceno repo za site granki
+17. git checkout master
+18.19.20.21. git checkout master
+             git merge imeNaGranka
+22. git checkout bug3
+Namesto rebase napraviv merge i probav da vratam so git reset i posledniot commit pa git push --force origin bug3
+23. git checkout master
+    git rebase bug3
+24. git checkout master
+25. git merge bug3
+26. git push origin na se 
