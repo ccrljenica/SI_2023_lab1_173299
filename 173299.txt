@@ -1,0 +1,8 @@
+5. git remote add origin https://github.com/ccrljenica/SI_2023_lab1_173299.git
+   - povrzuvanje od lokalno repo so oddaleceno.
+6. git add .
+   git commit -m "Inital commit"
+   - dodavanje na readme.md datoteka i pravenje commit
+7. isto kako 6 za SILab1.java
+8. git push -u origin master
+   - push do oddalecenoto repo
