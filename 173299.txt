@@ -6,3 +6,7 @@
 7. isto kako 6 za SILab1.java
 8. git push -u origin master
    - push do oddalecenoto repo
+9. git brunch bug1 (bug2,bug3)
+   -kreiranje na 3 novi granki
+10. git checkout bug1
+   - prefrlanje na bug1 granka 
